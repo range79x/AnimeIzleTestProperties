@@ -1,0 +1,4 @@
+spring:
+  application:
+    profile: default
+    name: api-gateway
